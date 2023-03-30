@@ -13,26 +13,26 @@ The designs were created to the following widths:
 
 #### Text
 
-- Very dark desaturated blue: hsl(238, 29%, 16%)
-- Soft red: hsl(14, 88%, 65%)
+- Very dark desaturated blue: rgb(47, 48, 85)
+- Soft red: rgb(250, 198, 183)
 
 #### Gradient
 
 Background gradient:
 
-- Soft violet: hsl(273, 75%, 66%)
-- Soft blue: hsl(240, 73%, 65%)
+- Soft violet: rgb(174, 103, 233)
+- Soft blue: rgb(100, 100, 230)
 
 ### Neutral
 
 #### Text
 
-- Very dark grayish blue: hsl(237, 12%, 33%)
-- Dark grayish blue: hsl(240, 6%, 50%)
+- Very dark grayish blue: rgb(74, 75, 94)
+- Dark grayish blue: rgb(119, 119, 135)
 
 #### Dividers
 
-- Light grayish blue: hsl(240, 5%, 91%)
+- Light grayish blue: rgb(230, 230, 233)
 
 ## Typography
 

@@ -71,8 +71,25 @@ footer {
         padding: 50px 200px;
     }
 
+    .imagem-topo {
+        position: absolute;
+        top: 150px;
+        height: 380px;
+        
+    }
+
+    .imagem-sombra {
+        display: none;
+    }
+
     .texto-completo {
         width: 50%;
         padding-left: 50%;
+    }
+
+    .titulo {
+        text-align: left;
+        font-size: 35px;
+        padding-top: 0;
     }
 }

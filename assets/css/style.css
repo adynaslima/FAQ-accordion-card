@@ -26,6 +26,10 @@ main {
     left: 65px;
 }
 
+.imagem-sombra-desktop, .imagem-topo-desktop {
+    display: none;
+}
+
 .titulo {
     font-size: 30px;
     font-weight: 700;
@@ -71,14 +75,7 @@ footer {
         padding: 50px 200px;
     }
 
-    .imagem-topo {
-        position: absolute;
-        top: 150px;
-        height: 380px;
-        
-    }
-
-    .imagem-sombra {
+    .imagem-sombra, .imagem-topo {
         display: none;
     }
 
@@ -92,4 +89,8 @@ footer {
         font-size: 35px;
         padding-top: 0;
     }
+
+    .resposta {
+        display: none;
+    }    
 }

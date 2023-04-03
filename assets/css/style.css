@@ -13,6 +13,10 @@ main {
     padding: 50px 20px 30px;
 }
 
+.imagens-desktop {
+    display: none;
+}
+
 .imagem-sombra {
     position: absolute;
     top: 150px;
@@ -24,10 +28,6 @@ main {
     position: absolute;
     top: 50px;
     left: 65px;
-}
-
-.imagem-sombra-desktop, .imagem-topo-desktop {
-    display: none;
 }
 
 .titulo {
@@ -75,8 +75,12 @@ footer {
         padding: 50px 200px;
     }
 
-    .imagem-sombra, .imagem-topo {
+    .imagens-mobile {
         display: none;
+    }
+
+    .imagens-desktop {
+        display: block;
     }
 
     .texto-completo {

@@ -72,8 +72,14 @@ footer {
 @media screen and (min-width: 1250px) {
 
     body {
-        padding: 50px 200px;
+        background: linear-gradient(rgb(174, 103, 233) 20%, rgb(100, 100, 230) 80%);
+        padding: 100px 200px;
+        height: 600px;
     }
+
+    main {
+        padding: 80px 100px;
+    } 
 
     .imagens-mobile {
         display: none;
@@ -81,6 +87,26 @@ footer {
 
     .imagens-desktop {
         display: block;
+    }
+
+    .imagem-sombra-desktop {
+        position: absolute;
+        top: 80px;
+        left: 60px;
+        width: 40%;
+    }
+
+    .imagem-topo-desktop {
+        position: absolute;
+        top: 150px;
+        left: 120px;
+        width: 35%;
+    }
+
+    .imagem-caixa-desktop {
+        position: absolute;
+        top: 270px;
+        left: 85px;
     }
 
     .texto-completo {

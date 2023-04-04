@@ -64,6 +64,10 @@ main {
     color: rgb(47, 48, 85);
 }
 
+.tudo.active .resposta {
+    display: block;
+  }
+
 hr {
     margin-bottom: 15px;
 }
